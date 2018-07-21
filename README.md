@@ -1,2 +1,3 @@
 # invie-github
-Curso Platzi-Github
+Curso Platzi-Github by Eduardo
+
